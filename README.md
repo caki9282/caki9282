@@ -30,11 +30,11 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 
 ### 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox" />
+<a href="https://github.com/caki9282/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caki9282&theme=gruvbox" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+<a href="https://github.com/caki9282/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caki9282&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=caki9282&theme=gruvbox&border_radius=4.5) -->
 
