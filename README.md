@@ -30,9 +30,6 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 
 ### 📊 Stats
 
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caki9282&show_icons=true&theme=gruvbox)
-![Calvin's GitHub Language stats](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox" />
 </a>
