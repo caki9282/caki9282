@@ -9,8 +9,7 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/caki9282?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/caki9282?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/caki9282?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/caki9282/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/caki9282-profile-views"/></a>
+    
    </p>
    
 ---
