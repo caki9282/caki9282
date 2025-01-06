@@ -31,7 +31,7 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 ### 📊 Stats
 
 <a href="https://github.com/caki9282/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caki9282&theme=gruvbox" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caki9282&theme=gruvbox&include_all_commits=true" />
 </a>
 <a href="https://github.com/caki9282/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caki9282&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
