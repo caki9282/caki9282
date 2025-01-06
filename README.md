@@ -10,6 +10,8 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
       <a href="https://github.com/caki9282?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/caki9282?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
+---
 
 ### 🧰 Languages and Tools
 
@@ -25,3 +27,16 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 <br />
 
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=caki9282&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=caki9282&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Calvin's Coding Journey</h3></summary>
+   Loreum Ipsum 
+-->
