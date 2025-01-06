@@ -37,7 +37,7 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=caki9282&theme=gruvbox&border_radius=4.5) -->
 
