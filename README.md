@@ -43,5 +43,5 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 
 <details>
  <summary><h3>👨‍💻 Calvin's Coding Journey</h3></summary>
-   Lorem Ipsum Ima coder beep boop
+   Lorem Ipsum Ima coder beep boop beep boop
 
