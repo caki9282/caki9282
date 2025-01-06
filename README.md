@@ -31,6 +31,7 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 ### 📊 Stats
 
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caki9282&show_icons=true&theme=gruvbox)
+![Calvin's GitHub Language stats](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=caki9282&theme=gruvbox&border_radius=4.5) -->
 
