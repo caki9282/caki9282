@@ -33,6 +33,12 @@ Computer Science enthusiast, and highly motivated in seeking to face new challen
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caki9282&show_icons=true&theme=gruvbox)
 ![Calvin's GitHub Language stats](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=caki9282&theme=gruvbox&border_radius=4.5) -->
 
 #
